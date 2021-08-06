@@ -1,6 +1,10 @@
  
 # E-Commerce Back End
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+[Visit the repository for this app.](https://github.com/wijeremy/e-commerce-back-end)
+
+[View a walkthrough of me using the app.](https://www.youtube.com/watch?v=z_ye7mdJn6I&ab_channel=HermeticHippie)
 ## Description
 I wanted to try using sequelize in a real world environment. This also helped me practice routing.
 You can use this app to organize information on a site that sells products. When paired with a front end, one could add code that reduces stock when items are purchased. However, the code presented here simply allows a user to update information on the site manually through CRUD commands to the server.
